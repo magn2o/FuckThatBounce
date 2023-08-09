@@ -1,0 +1,10 @@
+Package: com.fortysixandtwo.fuckthatbounce
+Name: FuckThatBounce
+Depends: firmware (>=7.1), mobilesubstrate
+Version: 0.9.1
+Architecture: iphoneos-arm
+Description: Stifle that stupid lockscreen bounce introduced in iOS 7.1 whenever you tap the lockscreen.
+Depiction: http://repo.fortysixandtwo.com/x/com.fortysixandtwo.fuckthatbounce
+Maintainer: magn2o
+Author: magn2o
+Section: Tweaks
